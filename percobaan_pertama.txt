@@ -2,6 +2,6 @@ Percobaan menggunakan Github
 - ini adalah baris pertama
 - kemudian ini baris kedua
 - dilanjutkan dengan baris ketiga
-- diakhiri baris keempat
+- baris keempat diganti dengan kalimat lain
 - ditambah dengan satu menjadi lima
 
